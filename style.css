@@ -8,3 +8,9 @@
     box-shadow: none;
     border: none;
 }
+
+.footer-bg {
+    border-top: solid #e5e5e5 1px;
+    margin-top: 10px;
+    padding: 20px 0 20px 0;
+}
